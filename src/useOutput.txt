@@ -16,7 +16,6 @@ Workstation Filip [Workstation] -> Node n1 [Node] -> Workstation Hans [Workstati
 	<LI> Printer Andy [Printer] </LI>
 	<LI>...</LI>
 </UL>
-
 </BODY>
 </HTML>
 
